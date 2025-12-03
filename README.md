@@ -10,6 +10,8 @@ The work includes cleaning the raw data, preparing a structured dataset, buildin
 The main goal of this project was to understand sales performance across different product categories, regions, and customer segments.  
 I cleaned the dataset, created KPIs, analyzed trends using pivot tables, and designed a dashboard that summarizes the results in a clear and simple format.
 
+![Dashboard Preview](Excel%20Project%20superstore%20dashboard.PNG)
+
 ---
 
 ## Files in This Repository
